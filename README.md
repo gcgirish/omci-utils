@@ -1,5 +1,8 @@
 # omci-utils
-To use run as shown below
+This project is a collection of utilities for decoding omci messages
+
+## Decoding "Received frame VLAN tagging operation table"
+To decode "Received frame VLAN tagging operation table", use the below utility. 
 ```shell
 python3.7 decode_vlan_tag_oper_table.py
 ```
